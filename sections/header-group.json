@@ -36,14 +36,14 @@
     "header": {
       "type": "header",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "enable_sticky": true,
         "hide_on_scroll": false,
         "show_separation_border": true,
         "reduce_padding": false,
         "logo": "shopify://shop_images/Nyvo_Logo_1.png",
-        "logo_max_width": 140,
-        "logo_mobile_max_width": 100,
+        "logo_max_width": 300,
+        "logo_mobile_max_width": 200,
         "menu": "main-menu",
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
@@ -51,13 +51,13 @@
         "sidebar_color_scheme": "",
         "sidebar_text_font": "heading",
         "sidebar_show_dividers": true,
-        "layout": "logo_left_navigation_inline",
+        "layout": "logo_center_navigation_inline",
         "show_icons": true,
         "show_country_selector": true,
         "show_country_name": false,
         "show_country_flag": true,
         "show_locale_selector": false,
-        "transparent_header_text_color": "#ffffff"
+        "transparent_header_text_color": "#1c1c1c"
       }
     }
   },

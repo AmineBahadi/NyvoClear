@@ -15,10 +15,12 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/NyvoClear_Sora.webp",
+            "mobile_image": "shopify://shop_images/NyvoClear_Sora_Mobile.webp",
             "subheading": "Tell your story",
             "title": "Image slide",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-end text-end",
+            "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "",
@@ -34,16 +36,18 @@
             "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         },
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/NyvoClear_Shiny.webp",
+            "mobile_image": "shopify://shop_images/NyvoClear_Shiny_Mobile.webp",
             "subheading": "Tell your story",
             "title": "Image slide",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "content_max_width": 780,
             "button_1_text": "",
             "button_1_link": "",
@@ -59,7 +63,7 @@
             "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
@@ -70,11 +74,11 @@
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": true,
-        "media_size": "auto",
+        "media_size": "lg",
         "show_initial_transition": false,
         "autoplay": true,
         "autoplay_pause_on_video": true,
-        "cycle_speed": 5,
+        "cycle_speed": 4,
         "background": "#000000",
         "controls_color": "#ffffff"
       }

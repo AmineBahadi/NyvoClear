@@ -82,9 +82,63 @@
         "background": "#000000",
         "controls_color": "#ffffff"
       }
+    },
+    "logo_list_jnbeQK": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_gyfFd8": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_EciL8C": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_9Bk3jC": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_famAAq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_gyfFd8",
+        "logo_EciL8C",
+        "logo_9Bk3jC",
+        "logo_famAAq"
+      ],
+      "name": "t:sections.logo_list.presets.logo_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Seen on",
+        "items_per_row": 4,
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
-    "slideshow"
+    "slideshow",
+    "logo_list_jnbeQK"
   ]
 }

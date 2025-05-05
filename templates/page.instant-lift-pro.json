@@ -87,6 +87,10 @@
             "payment_button_text_color": ""
           }
         },
+        "conversion_bear_trust_badges_widget_NATDtC": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "pickup_availability_t83NUU": {
           "type": "pickup_availability",
           "settings": {}
@@ -104,12 +108,13 @@
         "variant_picker_7rUwA6",
         "quantity_selector_TWkwkh",
         "buy_buttons_VJy6nb",
+        "conversion_bear_trust_badges_widget_NATDtC",
         "pickup_availability_t83NUU"
       ],
       "name": "t:sections.featured_product.presets.featured_product.name",
       "settings": {
         "color_scheme": "",
-        "product": "nyvoclear-instant-lift-pro-1",
+        "product": "nyvoclear-instant-lift-pro",
         "separate_section_with_border": true,
         "container_size": "lg",
         "product_info_size": 45,

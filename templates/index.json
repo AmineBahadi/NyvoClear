@@ -17,8 +17,8 @@
           "settings": {
             "image": "shopify://shop_images/NyvoClear_Sora.webp",
             "mobile_image": "shopify://shop_images/NyvoClear_Sora_Mobile.webp",
-            "subheading": "Tell your story",
-            "title": "Image slide",
+            "subheading": "No filters, no filler promises",
+            "title": "Your Skin Hasn’t Peaked Yet.",
             "mobile_text_position": "place-self-end text-end",
             "desktop_text_position": "sm:place-self-end sm:text-end",
             "content_max_width": 780,
@@ -44,8 +44,8 @@
           "settings": {
             "image": "shopify://shop_images/NyvoClear_Shiny.webp",
             "mobile_image": "shopify://shop_images/NyvoClear_Shiny_Mobile.webp",
-            "subheading": "Tell your story",
-            "title": "Image slide",
+            "subheading": "Skincare designed to deliver radiant skin.",
+            "title": "Reveal Your Confidence.",
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "content_max_width": 780,

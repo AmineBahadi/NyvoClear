@@ -163,29 +163,23 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
+        "subheading": ""
       }
     },
     "image_with_text_hJAh3C": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_kKx7jW": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_aJQRHF": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
+            "text": "<strong>Naturally enhance your skin</strong>",
+            "heading_tag": "h2"
           }
         },
         "richtext_rVEUrL": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Discover a premium skincare range designed to reveal your skin’s natural radiance. With formulas enriched with pure and beneficial ingredients, every NyvoClear product embodies effectiveness, elegance, and gentle care.</p>"
           }
         },
         "button_EgUcJx": {
@@ -200,7 +194,6 @@
         }
       },
       "block_order": [
-        "subheading_kKx7jW",
         "heading_aJQRHF",
         "richtext_rVEUrL",
         "button_EgUcJx"

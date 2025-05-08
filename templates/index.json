@@ -158,18 +158,69 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "hide_product_information": false,
-        "stack_products": true,
+        "stack_products": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": "Featured collection"
       }
+    },
+    "image_with_text_hJAh3C": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_kKx7jW": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_aJQRHF": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_rVEUrL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_EgUcJx": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Buy now",
+            "url": "shopify://collections/frontpage",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kKx7jW",
+        "heading_aJQRHF",
+        "richtext_rVEUrL",
+        "button_EgUcJx"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-61755d7b-656c-401d-88ca-b39021e2201f",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Google_Search_-_NyvoClear.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
     "slideshow",
     "logo_list_jnbeQK",
-    "featured_collections_WagTmf"
+    "featured_collections_WagTmf",
+    "image_with_text_hJAh3C"
   ]
 }

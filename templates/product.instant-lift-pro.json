@@ -229,8 +229,8 @@
           "settings": {
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
             "image": "shopify://shop_images/4_d1fc8796-6367-4ffd-86a7-4d71f6e584e4.webp",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
+            "logo_max_width": 500,
+            "logo_mobile_max_width": 400,
             "author": ""
           }
         },
@@ -238,8 +238,9 @@
           "type": "testimonial",
           "settings": {
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
+            "image": "shopify://shop_images/before-after-6.webp",
+            "logo_max_width": 500,
+            "logo_mobile_max_width": 400,
             "author": ""
           }
         },
@@ -247,8 +248,19 @@
           "type": "testimonial",
           "settings": {
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
-            "logo_max_width": 140,
-            "logo_mobile_max_width": 100,
+            "image": "shopify://shop_images/1_240d8f6c-7c51-4f31-b83f-89e16408de60.webp",
+            "logo_max_width": 500,
+            "logo_mobile_max_width": 400,
+            "author": ""
+          }
+        },
+        "testimonial_wNhMwc": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "image": "shopify://shop_images/review5.webp",
+            "logo_max_width": 500,
+            "logo_mobile_max_width": 400,
             "author": ""
           }
         }
@@ -256,11 +268,12 @@
       "block_order": [
         "testimonial_gDGPJJ",
         "testimonial_c3jWGz",
-        "testimonial_eWa9iX"
+        "testimonial_eWa9iX",
+        "testimonial_wNhMwc"
       ],
       "name": "t:sections.testimonials.presets.testimonials.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "auto_rotate_between_testimonials": false,
         "cycle_speed": 5,

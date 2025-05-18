@@ -208,17 +208,21 @@
         "max_image_zoom_level": 3
       }
     },
-    "image_with_text_pdW6a9": {
-      "type": "image-with-text",
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+    "image_with_text_overlay_4h83Gw": {
+      "type": "image-with-text-overlay",
+      "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "image_size": "auto",
         "image": "shopify://shop_images/benefice_HR_15_f4ad28dd-a0fb-4c6a-a2b8-64b971441ede.webp",
+        "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "testimonials_rRCqax": {
@@ -305,7 +309,7 @@
     "image_with_text_overlay_YD3D4Q",
     "logo_list_iWLrmA",
     "main",
-    "image_with_text_pdW6a9",
+    "image_with_text_overlay_4h83Gw",
     "testimonials_rRCqax",
     "related-products"
   ]

@@ -158,6 +158,12 @@
             "payment_button_text_color": ""
           }
         },
+        "kaching_bundles_app_block_T47hdT": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "nyvoclear-instant-lift-pro"
+          }
+        },
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
@@ -167,6 +173,10 @@
             "stack_products": false,
             "show_quick_buy": true
           }
+        },
+        "conversion_bear_trust_badges_widget_NCRFeJ": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
         }
       },
       "block_order": [
@@ -179,7 +189,9 @@
         "quantity_selector",
         "c_edd_estimated_delivery_date_delivery_coder_theme_teKEjA",
         "buy_buttons",
-        "complementary_products"
+        "kaching_bundles_app_block_T47hdT",
+        "complementary_products",
+        "conversion_bear_trust_badges_widget_NCRFeJ"
       ],
       "settings": {
         "color_scheme": "",
@@ -194,6 +206,68 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3
+      }
+    },
+    "image_with_text_pdW6a9": {
+      "type": "image-with-text",
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/benefice_HR_15_f4ad28dd-a0fb-4c6a-a2b8-64b971441ede.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "testimonials_rRCqax": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_gDGPJJ": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "image": "shopify://shop_images/4_d1fc8796-6367-4ffd-86a7-4d71f6e584e4.webp",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_c3jWGz": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        },
+        "testimonial_eWa9iX": {
+          "type": "testimonial",
+          "settings": {
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "logo_max_width": 140,
+            "logo_mobile_max_width": 100,
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_gDGPJJ",
+        "testimonial_c3jWGz",
+        "testimonial_eWa9iX"
+      ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "auto_rotate_between_testimonials": false,
+        "cycle_speed": 5,
+        "font_size_factor": 1,
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     },
     "related-products": {
@@ -218,6 +292,8 @@
     "image_with_text_overlay_YD3D4Q",
     "logo_list_iWLrmA",
     "main",
+    "image_with_text_pdW6a9",
+    "testimonials_rRCqax",
     "related-products"
   ]
 }

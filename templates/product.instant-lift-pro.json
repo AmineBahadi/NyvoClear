@@ -227,41 +227,41 @@
         "testimonial_gDGPJJ": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><em>\"As a busy mom, I’ve struggled to find a product that actually works on my fine lines and wrinkles. This one is a game-changer! Every morning, it feels like a mini facelift in a bottle. My skin looks smoother, and people keep asking me what my secret is!\"</em></p>",
             "image": "shopify://shop_images/4_d1fc8796-6367-4ffd-86a7-4d71f6e584e4.webp",
             "logo_max_width": 500,
             "logo_mobile_max_width": 400,
-            "author": ""
+            "author": "<strong>Joyce A.</strong>"
           }
         },
         "testimonial_c3jWGz": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><em>\"I’ve tried so many products for my crow’s feet and laugh lines, but nothing worked like this. It’s not just a cream—it’s a real fountain of youth! My wrinkles are almost gone, and my skin feels firmer and smoother. I finally feel confident again!\"</em></p>",
             "image": "shopify://shop_images/before-after-6.webp",
             "logo_max_width": 500,
             "logo_mobile_max_width": 400,
-            "author": ""
+            "author": "<strong>Carol R.</strong>"
           }
         },
         "testimonial_eWa9iX": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><em>\"I can’t believe how much younger my skin looks after using this product! It’s like hitting the reset button on wrinkles and sagging skin. My confidence has skyrocketed since I started seeing the results. If you’re looking for a real solution to aging skin, this is it!\"</em></p>",
             "image": "shopify://shop_images/1_240d8f6c-7c51-4f31-b83f-89e16408de60.webp",
             "logo_max_width": 500,
             "logo_mobile_max_width": 400,
-            "author": ""
+            "author": "<strong>Alyssa R.</strong>"
           }
         },
         "testimonial_wNhMwc": {
           "type": "testimonial",
           "settings": {
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>",
+            "content": "<p><em>\"The NyvoClear Instant Lift Pro+ cream is my secret weapon against wrinkles. In seconds, my skin feels firmer and smoother, and my fine lines practically disappear. It’s like turning back the clock every time I use it—and it works perfectly under makeup too!\"</em></p>",
             "image": "shopify://shop_images/review5.webp",
             "logo_max_width": 500,
             "logo_mobile_max_width": 400,
-            "author": ""
+            "author": "<strong>Daisy T.</strong>"
           }
         }
       },

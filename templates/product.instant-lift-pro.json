@@ -15,14 +15,14 @@
         "subheading_9UeUJP": {
           "type": "subheading",
           "settings": {
-            "text": "★★★★★ Noté 4.9/5 par plus de 100'000 clientes satisfaites."
+            "text": "★★★★★ Rated 4.9/5 by over 10,000 satisfied customers"
           }
         },
         "heading_VBraJP": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h4"
+            "text": "Bags and wrinkles under the eyes? Erase them instantly!",
+            "heading_tag": "h3"
           }
         }
       },
@@ -32,17 +32,71 @@
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_size": "auto",
         "image": "shopify://shop_images/NyvoClear_Lift_Hero.png",
-        "allow_transparent_header": true,
+        "mobile_image": "shopify://shop_images/NyvoClear_Lift_Hero_Mobile_2.png",
+        "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
         "content_width": "md",
-        "mobile_text_position": "place-self-end-start text-start",
+        "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-end-start sm:text-start",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "logo_list_iWLrmA": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_hRPLFL": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_9H7hEd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_TNHLrn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_width": 170,
+            "link": ""
+          }
+        },
+        "logo_GXPwCa": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_hRPLFL",
+        "logo_9H7hEd",
+        "logo_TNHLrn",
+        "logo_GXPwCa"
+      ],
+      "name": "t:sections.logo_list.presets.logo_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Featured by",
+        "items_per_row": 4,
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "main": {
@@ -162,6 +216,7 @@
   },
   "order": [
     "image_with_text_overlay_YD3D4Q",
+    "logo_list_iWLrmA",
     "main",
     "related-products"
   ]

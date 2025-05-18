@@ -17,7 +17,7 @@
           "settings": {
             "video": "shopify://files/videos/NyvoClear Hero.mp4",
             "allow_sound": false,
-            "subheading": "No filters, no filler promises",
+            "subheading": "★★★★★ Rated 4.9/5 by over 10,000 satisfied customers",
             "title": "Your Skin Hasn’t Peaked Yet.",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -190,7 +190,7 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "subheading": "",
-        "title": "Seen on",
+        "title": "Featured by",
         "items_per_row": 4,
         "logo_item_background": "",
         "logo_item_border": ""
